@@ -1,0 +1,1 @@
+- serverディレクトリで `node main.js`実行
