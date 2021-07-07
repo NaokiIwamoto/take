@@ -1,1 +1,2 @@
 - serverディレクトリで `node main.js`実行
+- localhost:8001にアクセス
